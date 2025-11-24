@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Beef",
+        "factor": 27.0,
+        "unit": "kg/kg"
+    },
+    {
+        "name": "Lamb",
+        "factor": 39.2,
+        "unit": "kg/kg"
+    },
+    {
+        "name": "Chicken",
+        "factor": 6.9,
+        "unit": "kg/kg"
+    },
+    {
+        "name": "Pork",
+        "factor": 12.1,
+        "unit": "kg/kg"
+    },
+    {
+        "name": "Fish",
+        "factor": 6.1,
+        "unit": "kg/kg"
+    },
+    {
+        "name": "Cheese",
+        "factor": 13.5,
+        "unit": "kg/kg"
+    },
+    {
+        "name": "Milk",
+        "factor": 1.9,
+        "unit": "kg/liter"
+    },
+    {
+        "name": "Eggs",
+        "factor": 4.8,
+        "unit": "kg/kg"
+    },
+    {
+        "name": "Rice",
+        "factor": 2.7,
+        "unit": "kg/kg"
+    },
+    {
+        "name": "Vegetables",
+        "factor": 2.0,
+        "unit": "kg/kg"
+    },
+    {
+        "name": "Fruits",
+        "factor": 1.1,
+        "unit": "kg/kg"
+    },
+    {
+        "name": "Bread",
+        "factor": 0.9,
+        "unit": "kg/kg"
+    }
+]

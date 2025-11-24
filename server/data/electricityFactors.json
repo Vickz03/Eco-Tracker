@@ -1,0 +1,30 @@
+{
+    "ac": {
+        "watts": 1500,
+        "factor": 0.5
+    },
+    "fan": {
+        "watts": 75,
+        "factor": 0.5
+    },
+    "light": {
+        "watts": 10,
+        "factor": 0.5
+    },
+    "fridge": {
+        "watts": 150,
+        "factor": 0.5
+    },
+    "tv": {
+        "watts": 100,
+        "factor": 0.5
+    },
+    "laptop": {
+        "watts": 50,
+        "factor": 0.5
+    },
+    "washing_machine": {
+        "watts": 500,
+        "factor": 0.5
+    }
+}
